@@ -1,0 +1,203 @@
+<! Doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<title>Pre-Modern Periods</title>
+<style>
+    body {
+        background-color: rgb(94, 38, 0);
+        position: relative;
+        }
+        
+        #Section1a {
+            padding-top: 50px;
+            height: 500px;
+            color: rgb(232, 232, 133);
+            background-color: rgb(10, 115, 160);
+        }
+
+        #Section1b {
+            padding-top: 50px;
+            height: 500px;
+            color: rgb(0, 0, 0);
+            background-color: rgb(4, 186, 4);
+        }
+
+        #Section1c {
+            padding-top: 50px;
+            height: 500px;
+            color: rgb(255, 255, 163);
+            background-color: rgb(75, 0, 110);
+        }
+        
+        #Section2 {
+            padding-top: 50px;
+            height: 500px;
+            color: rgb(0, 0, 0);
+            background-color: orangered;
+        }
+
+        #Section3 {
+            padding-top: 50px;
+            height: 500px;
+            color: rgb(255, 255, 163);
+            background-color: rgb(145, 0, 0);
+        }
+        
+        #Section4 {
+            padding-top: 50px;
+            height: 1000px;
+            color: black;
+            background-color:yellow;
+        }
+        #Section5 {
+            padding-top: 50px;
+            height: 1750px;
+            color: rgb(255, 255, 163);
+            background-color: rgb(6, 14, 164);
+        }
+        h1 {
+            font-size: 50px;
+            font-family: Georgia;
+        }
+        h3 {
+            font-size: 25px;
+            font-family: 'Times New Roman';
+        }
+    </style>
+</head>
+
+<body data-spy="scroll" data-target=".navbar">
+    <div class="container">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#" style="margin-left:300px;">Pre-Modern Periods</a>
+                <div class="collapse navbar-collapse" id="navbar">
+                    <ul class="nav navbar-nav" style="margin-left: 250px;">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                Stone Age
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#Section1a">Old Stone Age</a>
+                                </li>
+                                <li>
+                                    <a href="#Section1b">Middle Stone Age</a>
+                                </li>
+                                <li>
+                                    <a href="#Section1c">New Stone Age</a>
+                                </li>
+                            </ul>
+                            </li>
+                            <li>
+                                <a href="#Section2">Copper Age</a>
+                            </li>
+                            <li>
+                                <a href="#Section3">Bronze Age</a>
+                            </li>
+                            <li>
+                                <a href="#Section4">Periodical Evolution</a>
+                            </li>
+                            <li>
+                                <a href="#Section5">Agricultural Importance</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid" id="Section1a">
+            <h1>The Old Stone Age</h1>
+            <h3>The Old Stone Age lasted for 200,000 years and despite their lack of advancement they had the same intelligence and fine motor skills as modern Humans.</h3>
+            <h3>
+                Humans lived off nature as nomadic gatherers and hunters. Gatherers is said first as they were predominantly gatherers over hunters. They used stone tools along with bone and wood tools. There was no developed hierarchy in the old stone age.
+            </h3>
+        </div>
+        <div class="container-fluid" id="Section1b">
+            <h1>The Middle Stone Age</h1>
+            <h3>The main notable point of the Mesolthic period is that agriculture was discovered in it but there was much besides that. In the mesolithic period there was much better technology than the paleolithic period including some polished stone. In the mesolithic period hunters achieved much better effiency with gathering food and adapted to a wider range of food.</h3>
+        </div>
+        <div class="container-fluid" id="Section1c">
+            <h1>The New Stone Age</h1>
+            <h3>The neolithic period is mainly categorized by 2 things, the first of those is the agricultural revolution it brought about with proper domestication of plants and animals which lead to sedentism as there was no longer a need to move around with a stable food source in one place. The better methods of acquiring food lead to surplus food which meant not everyone needed to farm creating the first proper differentiation of jobs which was a major development in society and the social hierarchy. With better technology and sedentism they built large villages and settlements
+            </h3>
+        </div>
+        <div class="container-fluid" id="Section2">
+            <h1>The Copper Age</h1>
+            <h3>The copper age was started by the discovery of copper, the first known metal to humankind</h3>
+            <h3>The copper age had many changes from the neolithic period, this is most prominently seen in technology but appeared in many things. There was possible change in sedentism, this would be seen in better housing and larger settlements. There was further differentiation and specialization of jobs and more division in the social hierarchy. There was also show of kingship/absolute monarchial systems.</h3>
+        </div>
+        <div class="container-fluid" id="Section3">
+            <h1>The Bronze Age</h1>
+            <h3>
+                 The coming about of the bronze age with its advanced technology and society brought with it strong civilizations and empires such as Ancient Greece and the Indus Valley civilization. There was also better technology for agriculture which meant more food.
+            </h3>
+            <h3>
+                There was identification through seals and Currency which then was metal such as Gold, Silver and Copper. There was also organized religion and development in the class system with classes such as Merchant, Farmer and Soldier. Besides these advancements, there was full fledged patriarchy and slavery. The most major turning point of the bronze age though was writing. Through writing there was literature and most importantly written history. Before the bronze age it was all prehistory but with writing the bronze age was the start of proper recorded history.
+            </h3>
+        </div>
+        <div class="container-fluid" id="Section4">
+            <h1>The evolution and changing complexity of society across periods</h1>
+            <h3>Most societies in the neolithic period were egalitarian(The belief that everyone is equal)with equal responsibilities
+            divided amongst everyone. With the development of agriculture and the stabilization it brought, society became more
+            complex with families and people that accumulated more resources had more influence and social standing. In the
+            neolithic period, there was no king or absolute ruler but in some clans there was the basic system of a chieftain to
+            serve the role of the leader of the clan.
+            </h3>
+            <h3>
+            In the bronze age, with more complex and larger settlements pronounced the social hierarchy further. Over time, a ruling
+            class developed with religious or political power along with wealth. With the differentiation of jobs there became a
+            clear standard that put the laborers at the bottom in a class of their own. The difference between people with specific
+            jobs was further cleared and taught to future generations thus cementing the class system. With the development of the
+            class system the idea of one person being on the top with absolute power came to life with the monarch having the most
+            wealth and power. Some claimed to be and were hailed as the divine ones chosen by the gods to rule them. With priests,
+            this was further developed through those with religious power having high social standing and the one person they
+            supported being the king.
+            </h3>
+            <h3>
+            With the complexity came the idea of patriarchy in some civilizations with women moving in with their husbands and
+            certain responsibilities being fit for women and some for men. With the gendered division of labor, men gained control
+            over production of goods thus further cementing the higher position of men and of men being superior though it was due
+            to the unjust division of responsibilities. With rising political figures being men patriarchy came into being for the
+            system of monarchy with the rulers being men. They were given more physical labor and sent to war while the women had to
+            stay at home. This led to cultural male dominance over time.
+            </h3>
+        </div>
+        <div class="container-fluid" id="Section5">
+            <h1>Could complex civilizations have come about without a strong base of agriculture?</h1>
+            <h3>
+                Large civilizations could not have emerged without a strong base of agriculture. I make this statement with evidence going all the way back to the paleolithic period. In the old stone age, human society was a simple system in which there were groups of people that gathered and hunted for food together. This was a rather crude system that did not leave room for much other than simple survival. In a civilization such as the indus valley civilization, differentiation and specialization of jobs is required to build the structures. Better and more sustainable/renewable resources would also be required to be available to do such work.
+            </h3>
+            <h3>
+                As we know through evidence of tools for agriculture and fossilized remains of domesticated crops , in the neolithic period there was an agricultural revolution which led to a sustainable source of food. As there was surplus food, ther ewas less need for everyone to farm or gather or hunt which led to the differentiation of jobs with some working as farmers to provide for the community as others worked different jobs such as pottery or keeping guard.
+            </h3>
+            <h3>
+                Having a renewable source of food in one location led to the coming of sedentism as people had no need to live a nomadic lifestyle and could stay in one place. With the surplus food and its importance came about the beginnings of a developed social hierarchy as families that accumulated more wealth and food had more influence and power. This along with the system of some communities having chiefs led to the beginnings of the monarchical system. Despite the advancement of society, patriarchy had still not come about as men and women worked equal jobs as members of society. As neolithic society was thriving with further differentiation and much more refined stone tools came about the discovery of metal, specifically copper.
+            </h3>
+            <h3>
+                Due to the huge jump in technology, society underwent a huge revamp. There were possible changes in sedentism, as with the new tools they could build much better and more refined structures. There was also the creation of new jobs for metallurgy with the role of blacksmiths for creating metal tools and weapons. This also led to better agriculture as there were better tools to work with. This also led to an even more developed social hierarchy and full fledged absolute monarchy with kingship as there was another kind of wealth to have which led to more influence. The monarchical system was further helped as organized religion was developed by then and the monarch would claim to have the divine right to rule as given to them by the god/gods. During the copper age, patriarchal systems had begun with women having less influence in their communities thus giving men more power. Men were also given more physical labor while women worked simpler tasks such as textile production and were largely associated with childbirth and raising them.
+            </h3>
+            <h3>
+                After the copper age came about the bronze age with a better material to work with. In the bronze age, there existed fully developed ancient civilizations with the technology that it brought. By then, monarchical systems had been implemented in many civilizations along with patriarchy, as women were seen less important and men being stronger and overall superior to women. Over time, with more kinds of wealth, the class system became fully fledged with those that had more resources being in the upper classes and those with less being in the lower classes such as the laborer class. This created division in society with the king having the most resources and being appointed ruler, either through power, or it being seen as their divine right supported by the priests who had great political power as the leaders of organized religion.
+            </h3>
+            <h3>
+                In conclusion, this all came from neolithic society with the differentiation of jobs created by not everyone having to work for food as there was a renewable source of it with surplus leaving room for other jobs. This all came from agriculture and its development. So no, without a strong base of agriculture, human society would still be just gathering and hunting and have never developed enough to have large civilizations.
+            </h3>
+        </div>
+    </div>
+    <div class="container text-muted text-center py-3 mt-5">
+        <h5 class="text-warning">Copyright &copy; <a class="text-warning">All rights are reserved by Rochefort Inc.</a></h5>
+    </div>
+</body>
+
+</html>
